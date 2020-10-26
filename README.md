@@ -1,5 +1,5 @@
 # BPAPractice
-<!DOCTYPE html>
+
 <html>
 <body>
 
